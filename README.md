@@ -1,4 +1,6 @@
 # Procedural-Graphics-Generation
 PGG
 
-![GitHub Logo](Images/RenderWindowGL.png)
+![Render Window](Images/xmlreader.png)
+
+![Render Window](Images/RenderWindowGL.png)
